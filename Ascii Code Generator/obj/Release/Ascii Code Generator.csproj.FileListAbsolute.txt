@@ -1,0 +1,8 @@
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Release\Ascii Code Generator.exe.config
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Release\Ascii Code Generator.exe
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Release\Ascii Code Generator.pdb
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Release\Ascii_Code_Generator.Form1.resources
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Release\Ascii_Code_Generator.Properties.Resources.resources
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Release\Ascii Code Generator.csproj.GenerateResource.Cache
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Release\Ascii Code Generator.exe
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Release\Ascii Code Generator.pdb

@@ -1,0 +1,18 @@
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\bin\Debug\Ascii Code Generator.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\bin\Debug\Ascii Code Generator.exe
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\bin\Debug\Ascii Code Generator.pdb
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii Code Generator.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii_Code_Generator.Form1.resources
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii_Code_Generator.Properties.Resources.resources
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii Code Generator.csproj.GenerateResource.Cache
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii Code Generator.exe
+c:\users\soft\documents\visual studio 2015\Projects\Ascii Code Generator\obj\Debug\Ascii Code Generator.pdb
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Debug\Ascii Code Generator.exe.config
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii Code Generator.exe
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii Code Generator.pdb
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Debug\Ascii Code Generator.exe
+E:\My Programming 2017\C#\Ascii Code Generator\bin\Debug\Ascii Code Generator.pdb
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii Code Generator.csprojResolveAssemblyReference.cache
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii_Code_Generator.Form1.resources
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii_Code_Generator.Properties.Resources.resources
+E:\My Programming 2017\C#\Ascii Code Generator\obj\Debug\Ascii Code Generator.csproj.GenerateResource.Cache
